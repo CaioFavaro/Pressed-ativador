@@ -1,4 +1,4 @@
-# 🖥️ Debian Zabbix‐Proxy Preseed & Iamges ativactor 
+# 🖥️ Debian Zabbix‐Proxy Preseed & Images ativactor 
 
 Automate a headless Debian install with built‑in Zabbix Proxy (MySQL) in Docker, firewall rules, PSK generation and SSH user setup.
 
